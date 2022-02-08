@@ -3,3 +3,6 @@
 **spring syst and predator_prey.pdf** contains the write up from the textbook
 
 **spring and predator_prey.py** contains the numeric solutions to the equations
+
+## Project 1
+**wave simulation (1).pdf** contains a short presentatio
