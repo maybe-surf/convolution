@@ -5,4 +5,4 @@
 **spring and predator_prey.py** contains the numeric solutions to the equations
 
 ## Project 1
-**wave_simulations (1).pdf** contains a short presentatio
+**wave_simulations (2).pdf** contains a short presentation
