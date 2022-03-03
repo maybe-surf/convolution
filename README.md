@@ -6,3 +6,6 @@
 
 ## Project 1
 **wave_simulations (2).pdf** contains a short presentation
+
+## HW 2
+
