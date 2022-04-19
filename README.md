@@ -9,3 +9,6 @@
 
 ## HW 2
 **Analog_Computer_IVP_ODE_Euler.ipynb** 
+
+## Final Project
+**file name** contains the code for the image classification of cleanand polluted ocean surfaces
