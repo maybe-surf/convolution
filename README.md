@@ -11,4 +11,4 @@
 **Analog_Computer_IVP_ODE_Euler.ipynb** 
 
 ## Final Project
-**Copy_of_Complex_Systems_Lab_Pretrained_Folder_Alexnet.ipynb** contains the code for the image classification of cleanand polluted ocean surfaces
+**Copy_of_Complex_Systems_Lab_Pretrained_Folder_Alexnet.ipynb** contains the code for the image classification of clean and polluted ocean surfaces
