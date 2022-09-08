@@ -13,3 +13,5 @@
 **Copy_of_Complex_Systems_Lab_Pretrained_Folder_Alexnet.ipynb** contains the code for the image classification of clean and polluted ocean surfaces
 
 **Convolution.pdf** contains a short presentation about CNNs
+
+**CNN_paper.pdf** contains a mathematical overview of convolution in the context of CNNs
