@@ -1,6 +1,6 @@
 # MAP-3305-Engineering-math
-## HW 1
-**spring syst and predator_prey.pdf** contains the write up from the textbook
+## Differential Equations
+**spring syst and predator_prey.pdf** contains write up about spring mass systems and predator-prey systems
 
 **spring and predator_prey.py** contains the numeric solutions to the equations
 
